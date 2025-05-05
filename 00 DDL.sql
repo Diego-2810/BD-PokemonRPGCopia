@@ -3,6 +3,8 @@ DROP DATABASE IF EXISTS bd_PokemonRPG;
 CREATE DATABASE bd_PokemonRPG CHARACTER SET UTF8;
 USE bd_PokemonRPG;
 
+
+-- gola dasjkdhsakjdhaskjdhakjhwkasjkdwabndbwqjhahncbeqwjfbshxfbwsjhdzxjhfsehws
 CREATE TABLE Entrenador(
 	idEntrenador SMALLINT NOT NULL AUTO_INCREMENT,
 	nombre VARCHAR(50) NOT NULL,

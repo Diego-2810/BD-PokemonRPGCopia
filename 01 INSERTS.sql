@@ -1,6 +1,8 @@
 /* 	Datos de https://www.wikidex.net/wiki/Lista_de_Pok%C3%A9mon_de_la_primera_generaci%C3%B3n
 	Script Desarrollado por alumnos de Computación de ET12 "Libertador Gral. José de San Martín" https://et12.edu.ar
     Especies 230 */
+
+    
 SET NAMES utf8;
 USE bd_PokemonRPG;
 SET FOREIGN_KEY_CHECKS=0;
